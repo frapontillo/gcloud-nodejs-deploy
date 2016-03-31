@@ -5,7 +5,9 @@ gcloud-nodejs-deploy
 [![Build Status][travis-image]][travis-url]
 [![Apache License][license-image]][license-url]
 
-`gcloud preview app deploy` with version from your package.json
+`gcloud preview app deploy` with version from your package.json: no more `20160401133700`!
+
+![gcloud-nodejs-deploy](media/magic.png)
 
 --------------------
 
