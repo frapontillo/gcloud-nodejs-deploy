@@ -16,7 +16,8 @@ npm install -g gcloud-nodejs-deploy
 ## How to use
 
 Launch `gcloud-nodejs-deploy` in an already set-up Google Cloud NodeJS project.
-Read [how to run NodeJS applications on managed Docker instances on Google Cloud]().
+Read [how to run NodeJS applications on managed Docker instances on Google Cloud]
+(https://cloudplatform.googleblog.com/2016/03/Node.js-on-Google-App-Engine-goes-beta.html).
 
 The utility will deploy your application as an image tagged with the version number
 in your `package.json`.
